@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "my clinic", "my clinic\my clinic.vcxproj", "{50D09213-D3B1-4824-BC5A-9EB2C05C0CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D09213-D3B1-4824-BC5A-9EB2C05C0CBC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50D09213-D3B1-4824-BC5A-9EB2C05C0CBC}.Debug|Win32.Build.0 = Debug|Win32
+		{50D09213-D3B1-4824-BC5A-9EB2C05C0CBC}.Release|Win32.ActiveCfg = Release|Win32
+		{50D09213-D3B1-4824-BC5A-9EB2C05C0CBC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
